@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -names "*.gif"  -print
+find . -type f -names "*.gif" | cut
